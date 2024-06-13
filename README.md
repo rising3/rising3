@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </div>
 
 <strong>My PC's:</strong>
-- Built PC(Core i7-12700K / DDR4 32GB / 2TB M.2 NVME / PALiT GeForce RTX 3060 TI Dual OC V1)
+- Built PC(Core i7-14700K / DDR4 32GB / 2TB M.2 NVME / PALiT GeForce RTX 3060 TI Dual OC V1)
 - Built PC(Ryzen 5 5500 / DDR4 32GB / 512GB SSD / PALiT GeForce GTX 1060 Dual)
 - Mac mini(M2 PRO / 16GB / 512GB SSD)
 - Mac Book Pro 15, Mid 2010 (Intel Core i7 / 8GB / 512GB SSD[conversion])
