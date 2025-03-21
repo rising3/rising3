@@ -44,8 +44,10 @@ Here are some ideas to get you started:
 <strong>My PC's:</strong>
 - Built PC(Core i7-14700K / DDR4 32GB / 2TB M.2 NVME / PALiT GeForce RTX 3060 TI Dual OC V1)
 - Built PC(Ryzen 5 5500 / DDR4 32GB / 512GB SSD / PALiT GeForce GTX 1060 Dual)
+- Raspberry Pi 5(2.4 GHz quad-core 64 bit Arm Cortex-A76 CPU / 8GB / 128GB SSD)
 - Mac mini(M2 PRO / 16GB / 512GB SSD)
 - Mac Book Pro 15, Mid 2010 (Intel Core i7 / 8GB / 512GB SSD[conversion])
+- iPad mini(2024)
 - iPad Pro 12.9(2020)
 - VAIO type T(Core 2 Duo U7600 / 2GB / 60GB)
 
