@@ -51,6 +51,14 @@ Here are some ideas to get you started:
 - VAIO type T(Core 2 Duo U7600 / 2GB / 60GB)
 - Raspberry Pi 5(2.4 GHz quad-core 64 bit Arm Cortex-A76 CPU / 8GB / 128GB SSD)
 
+<strong>My Keyboard's:</strong>
+- HHKB Studio JP/YUKI
+- HHKB Professional HYBRID JP/White
+- FILCO Majestouch Convertible 3 Tenkeyless JP/Brown Switch
+- FILCO Majestouch Convertible 2 Tenkeyless JP/Red Switch
+- FILCO Majestouch 2 Tenkeyless US/Red Switch
+- FILCO Majestouch MINILA JP/Brown Switch
+
 <!-- GitHub profile summary cards -->
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
